@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.panelkontak {
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .panelkontak a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  
+
+.topnav-1 {
+    overflow: hidden;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.topnav-1 a {
+    float: left;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  
